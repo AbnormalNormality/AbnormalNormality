@@ -1,1 +1,1 @@
-abnormalnormality.github.io/About-Me/
+https://abnormalnormality.github.io/About-Me/
