@@ -1,7 +1,6 @@
 **Hey, I'm Alia!**
 
+I'm a transfem from Australia with Anxiety among other things.
+I code small projects in Python to keep myself entertained and I'm currently learning C#, Unity, and HTML.
 
-I code small projects on Python in my free time and I'm currently learning C#, Unity, and HTML!
-
-For more about me, check out my <a href=https://abnormalnormality.github.io/About-Me/>website</a>!
-_May not be complete_
+For more about me, check out the website I'm making, which can find it [here](https://abnormalnormality.github.io/About-Me/)!
