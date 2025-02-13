@@ -6,3 +6,5 @@ I code small projects in Python to keep myself entertained and I'm currently lea
 For more about me, check out the website I'm making, which can find it [here](https://abnormalnormality.github.io/AbnormalNormality/)!
 
 > 01/01/2025 : : : Lost all code from Jan 1st to Dec 31st
+
+![image](https://github.com/user-attachments/assets/07d14365-849d-4a6d-b81c-3d17265f5e86)
