@@ -9,4 +9,4 @@ For more about me, check out the website I'm making, which can find it [here](ht
 
 Check out my [NEW site](https://abnormalnormality.github.io/ToWhomMightYouBeReferringTo/)!
 
-![image](https://github.com/user-attachments/assets/07d14365-849d-4a6d-b81c-3d17265f5e86)
+Check out my [NEWER site](https://abnormalnormality.github.io/Coffee/)!
