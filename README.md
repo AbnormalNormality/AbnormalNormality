@@ -1,11 +1,9 @@
-**Hey, I'm Alia!**
+I write bad Python code.
 
-Check out my [About Me](https://abnormalnormality.github.io/Coffee/) site to learn about me!
-The basic stuff is:
+[In Depth About Me](https://abnormalnormality.github.io/Coffee)
 
-I'm a transfem from Australia with Anxiety among other things.
-I code small projects in Python to keep myself entertained and I'm currently learning C#, Unity, and HTML.
+___
 
-> 01/01/2025 : : : Lost all code from Jan 1st to Dec 31st
-
-
+Date | Event
+--- | ---
+01/01/2025 | Lost all code from Jan 1st to Dec 31st
