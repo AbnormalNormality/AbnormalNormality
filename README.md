@@ -1,4 +1,4 @@
-I write bad Python code.
+I write bad Python code and poorly named websites.
 
 ___
 
